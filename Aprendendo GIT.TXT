@@ -1,3 +1,8 @@
+Se você quer aprender mais sobre GIT, siga as instruções dos links abaixo. 
+Aproveite! Comece a aprender agora.
+
 https://www.youtube.com/watch?v=2alg7MQ6_sI&vl=pt
 
 https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git
+
+http://devfuria.com.br/git/tutorial-iniciando-git/
